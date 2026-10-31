@@ -1,0 +1,8 @@
+family,mean_mae,std_mae,n_seeds,mean_tv_at_meank
+mnl_mixture,0.03668,0.00101,5,0.10086
+mnl_mixture_paper,0.12222,0.00105,5,0.33611
+mnl_single,0.04668,0.00136,5,0.12838
+mnl_single_paper,0.12226,0.00104,5,0.33620
+topkgmm_mixture,0.06490,0.00082,5,0.17847
+topkgmm_single,0.07381,0.00245,5,0.20297
+uniform_baseline,0.12278,0.00095,5,0.33766
